@@ -1,0 +1,29 @@
+.body {
+
+}
+input[type='radio'] {
+	vertical-align: middle;
+}
+.header {
+	padding: 90px 5px 90px 5px;
+	background-color: #D3D3D3;
+}
+
+#nic-cage-trivia {
+	font-size: 5em;
+	text-align: center;
+}
+
+#instructions {
+	text-align:center;
+}
+
+.subcontainer {
+	padding: 10px 5px 5px 5px;
+	border: solid white 2px;
+	/*background-color: #D3D3D3;*/
+}
+
+#timer {
+	float: left;
+}
